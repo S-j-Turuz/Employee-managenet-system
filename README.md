@@ -1,4 +1,7 @@
 # Employee-managenet-system
 This is an employee management, console application written in Java.
-This application will work better in a terminal that uses bash because of the use of escape characters to change pages in the application.
+
+I didn't create a java executable so you must run the application in a terminal that uses bash.
+
+This application will work in any console, but it will work best in a terminal that uses bash because of the use of escape characters to change pages in the application.
 
