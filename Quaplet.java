@@ -1,3 +1,4 @@
+// this class is used when creating a new Employee, Advisor, Developer, and Manager object.
 
 public class Quaplet {
 	public final String _fName;
