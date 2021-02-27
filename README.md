@@ -6,4 +6,4 @@ I didn't create a java executable so you must run the application in a terminal 
 This application will work in any console, but it will work best in a terminal that uses bash because of the use of escape characters to change pages in the application.
 
 ![alt text](https://github.com/[Savantor]/[Employee-managenet-system
-]/blob/[main]/image.jpg?raw=true)
+]/blob/[main]/SettingUp.png?raw=true)
